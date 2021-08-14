@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors Game
 A Simple command line Rock Papers Scissors game wrtten in Rust and Java
