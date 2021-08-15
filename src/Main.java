@@ -18,7 +18,7 @@ public class Main {
             }
         }
         if(!valid) {
-            System.out.println("Not Valid");
+            System.out.println("Not A Valid Option");
             System.exit(0);
         }
 
